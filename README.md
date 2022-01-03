@@ -11,6 +11,7 @@
 
 # 最近の活動
 
-[![](https://raw.githubusercontent.com/ksato-dev/ksato-dev/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ksato-dev/ksato-dev/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ksato-dev/ksato-dev/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ksato-dev/ksato-dev/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ksato-dev/ksato-dev/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ksato-dev&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ksato-dev&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ksato-dev&theme=github_dark) ](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ksato-dev&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ksato-dev&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
