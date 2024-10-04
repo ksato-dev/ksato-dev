@@ -12,6 +12,17 @@
     - ディープラーニング
     - IoT
 
+# My Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,typescript" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=opencv,pytorch,fastapi,qt,ros,react" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,vim,git,ubuntu,docker,raspberrypi,markdown,cmake,arduino" />
+  </a>
+</p>
+
 # 最近の活動
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-rho-ivory-65.vercel.app/api/top-langs/?username=ksato-dev&layout=compact&show_icons=true&theme=onedark" />
