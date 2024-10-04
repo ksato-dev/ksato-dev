@@ -19,7 +19,7 @@
     <br />
     <img src="https://skillicons.dev/icons?i=opencv,pytorch,fastapi,qt,ros,react" />
     <br />
-    <img src="https://skillicons.dev/icons?i=aws,gcp,vim,git,ubuntu,docker,raspberrypi,markdown,cmake,arduino" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,vim,git,ubuntu,visualstudio,docker,raspberrypi,markdown,cmake,arduino" />
   </a>
 </p>
 
