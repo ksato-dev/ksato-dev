@@ -15,11 +15,20 @@
 # My Skills
 <p align="center">
   <a href="https://skillicons.dev">
+    <h3>Language</h3>
     <img src="https://skillicons.dev/icons?i=python,cpp,typescript" />
-    <br />
+    <h3>Editor</h3>
+    <img src="https://skillicons.dev/icons?i=vim,vscode" />
+    <h3>OS</h3>
+    <img src="https://skillicons.dev/icons?i=ubuntu,windows" />
+    <h3>Library/Framework</h3>
     <img src="https://skillicons.dev/icons?i=opencv,pytorch,fastapi,qt,ros,react" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=aws,vim,git,ubuntu,visualstudio,docker,raspberrypi,markdown,cmake,arduino" />
+    <h3>Infrastructure</h3>
+    <img src="https://skillicons.dev/icons?i=aws,docker" />
+    <h3>Dev tool</h3>
+    <img src="https://skillicons.dev/icons?i=git,visualstudio" />
+    <h3>IoT</h3>
+    <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
   </a>
 </p>
 
