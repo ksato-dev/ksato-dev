@@ -24,7 +24,7 @@
     <h3>Library/Framework</h3>
     <img src="https://skillicons.dev/icons?i=opencv,pytorch,fastapi,qt,ros,react" />
     <h3>Infrastructure</h3>
-    <img src="https://skillicons.dev/icons?i=aws,docker" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker" />
     <h3>Dev tool</h3>
     <img src="https://skillicons.dev/icons?i=git,visualstudio" />
     <h3>IoT</h3>
