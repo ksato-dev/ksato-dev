@@ -8,7 +8,7 @@
     - ウェブアプリケーション開発（フロントエンド、バックエンド, DB）
     - クラウド（AWS, Azure）
     - 画像処理（古典画像処理）
-    - ゲーム開発
+    - ゲーム開発（Unity）
 
 # My Skills
 <p align="center">
@@ -22,7 +22,7 @@
     <h3>Library/Framework</h3>
     <img src="https://skillicons.dev/icons?i=opencv,pytorch,fastapi,qt,ros,react" />
     <h3>Infrastructure</h3>
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,postgres" />
     <h3>Dev tool</h3>
     <img src="https://skillicons.dev/icons?i=git,visualstudio" />
     <h3>IoT</h3>
